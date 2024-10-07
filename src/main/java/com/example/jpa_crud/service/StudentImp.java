@@ -74,10 +74,5 @@ public class StudentImp implements Studentservice{
         return status;
     }
 
-    @Override
-    public boolean Editpage(Students students) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'Editpage'");
-    }
 
 }

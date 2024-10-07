@@ -11,6 +11,7 @@ public interface Studentservice {
     public Students getbyId(int id);
     public boolean updatedetail(Students std,int id);
     public boolean deletestd(int id);
-    public boolean Editpage(Students students);
+
+    //this is main repository
 
 }
